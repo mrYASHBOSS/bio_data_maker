@@ -82,7 +82,7 @@ class _StapperState extends State<Stapper> {
                         child: pw.Text('data'),
                       ),
                     ],
-                  )
+                  ),
                 ],
               ),
             ],
