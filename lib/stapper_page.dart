@@ -291,7 +291,7 @@ class _StapperState extends State<Stapper> {
                   ElevatedButton(
                     onPressed: pdf,
                     child: const Text('Download pdf'),
-                  )
+                  ),
                 ],
               ),
             ),
